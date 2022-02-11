@@ -8,6 +8,7 @@
 - 📲 React Native / SwiftUI / Kotlin
 - DEV Kubernates / Docker / Cane / Harbor
 - 🙏 Thank U for ur patience and time
+- 🤷‍♂️ Please always remember i am a complete noob at this
 
 <!---
 Xienix6/Xienix6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
